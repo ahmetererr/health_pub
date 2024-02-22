@@ -1,0 +1,40 @@
+name: ecommerce
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.4 <3.0.0"
+
+dependencies:
+
+
+  table_calendar: ^3.0.0
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  device_preview: ^1.1.0
+  ionicons: ^0.2.2
+  google_fonts: ^5.1.0
+  http: ^1.1.0
+  get: ^4.6.6
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  url_launcher: ^6.0.10
+  webview_flutter: ^2.0.13
+  openfoodfacts: ^3.3.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/

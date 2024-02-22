@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "121967745239",
+    "project_id": "healthpub2",
+    "storage_bucket": "healthpub2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121967745239:android:07d5ba304a68d509663892",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121967745239-0p2r2imigr2p96brromfhrup99tfh7l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4qvpSM7LmX_gWEssjo1P46Br_mui9sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121967745239-0p2r2imigr2p96brromfhrup99tfh7l7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121967745239-ll5gqad75ebq66k36ul0vgoe2ofmb6pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
