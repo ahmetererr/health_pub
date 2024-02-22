@@ -62,10 +62,10 @@ Click on the more icon and go to the pharmacy widget to find the nearest pharmac
 
 
 ## CREATED BY
-https://github.com/ahmetererr
-https://github.com/SamSemSim
-https://github.com/Vedat-ayaz
-https://github.com/erdm38
+- https://github.com/ahmetererr
+- https://github.com/SamSemSim
+- https://github.com/Vedat-ayaz
+- https://github.com/erdm38
 
 
 
