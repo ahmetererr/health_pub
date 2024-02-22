@@ -45,6 +45,8 @@ Clone the repository to your local machine.
 Go to the project directory.
 Perform the Firebase setup.
 Run the command: 'Flutter pub get' in the Android Studio terminal.
+Create a new virtual device or use a real device.
+Click on start button and load the application to your device.
 
 ## USAGE
 
@@ -58,6 +60,12 @@ Click on the symptom widget on the home page to fill in the necessary informatio
 Click on the Barcode Scanner widget on the home page to enter the required barcode for Barcode Scanner usage.
 Click on the more icon and go to the pharmacy widget to find the nearest pharmacy.
 
+
+## CREATED BY
+https://github.com/ahmetererr
+https://github.com/SamSemSim
+https://github.com/Vedat-ayaz
+https://github.com/erdm38
 
 
 
