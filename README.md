@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 # health_pub
 
 
-##GENERAL INFORMATION
+## GENERAL INFORMATION
 The Flutter application named "HealthPub" is designed to facilitate the easy overcoming of health problems that users may experience in their daily lives. Thanks to Flutter's extensive API range, in this project, Firebase and Gemini.ai APIs provided by Google, as well as CollectAPI's Night Pharmacies API and OpenFoodFactsAPI provided by OpenFoodFacts, have been used. All these libraries have been combined to provide the most efficient service for users. The aim is for users to access health services by utilizing their time and money most efficiently.
 
 ## FEATURES
