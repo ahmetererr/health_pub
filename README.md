@@ -23,42 +23,42 @@ The Flutter application named "HealthPub" is designed to facilitate the easy ove
 
 ## FEATURES
 
-Stores users' past and future health information, allowing them to update it whenever they want.
-Provides the ability to create reminders for appointments you have scheduled at the hospital.
-With the Symptom Checker feature, it directs you to the nearest healthcare facility by finding the most ideal clinic and solution for your current health problem.
-Through the Barcode Reader feature, it provides access to all allergen information contained in the product instantly by scanning the barcode of all products you purchase.
-With the Gemini Chatbot, you can find out what might be causing your current discomforts.
-You can easily find the location of the nearest night pharmacy. (CURRENTLY VALID ONLY IN TURKEY)
+- Stores users' past and future health information, allowing them to update it whenever they want.
+- Provides the ability to create reminders for appointments you have scheduled at the hospital.
+- With the Symptom Checker feature, it directs you to the nearest healthcare facility by finding the most ideal clinic and solution for your current health problem.
+- Through the Barcode Reader feature, it provides access to all allergen information contained in the product instantly by scanning the barcode of all products you purchase.
+- With the Gemini Chatbot, you can find out what might be causing your current discomforts.
+- You can easily find the location of the nearest night pharmacy. (CURRENTLY VALID ONLY IN TURKEY)
 
 ## TECHNOLOGIES AND LIBRARIES
 
-Flutter
-Gemini.ai
-Firebase
-OpenFoodFactsAPI
-Night Pharmacies API
+- Flutter
+- Gemini.ai
+- Firebase
+- OpenFoodFactsAPI
+- Night Pharmacies API
 
 ## INSTALLATION
 
-Download the latest version of Android Studio.
-Clone the repository to your local machine.
-Go to the project directory.
-Perform the Firebase setup.
-Run the command: 'Flutter pub get' in the Android Studio terminal.
-Create a new virtual device or use a real device.
-Click on start button and load the application to your device.
+1. Download the latest version of Android Studio.
+2. Clone the repository to your local machine.
+3. Go to the project directory.
+4. Perform the Firebase setup.
+5. Run the command: 'Flutter pub get' in the Android Studio terminal.
+6. Create a new virtual device or use a real device.
+7. Click on start button and load the application to your device.
 
 ## USAGE
 
-First, click on the register button on the home page to sign up.
-Then, click on the login button to sign in with the information you registered.
-Fill in your own information from the Profile tab.
-Click on the chat icon at the bottom to start chatting for Chatbot usage.
-Click on the calendar icon at the bottom to select a date for Schedule usage.
-Toggle the dark mode button from the settings to enable dark mode.
-Click on the symptom widget on the home page to fill in the necessary information for Symptom Checker usage.
-Click on the Barcode Scanner widget on the home page to enter the required barcode for Barcode Scanner usage.
-Click on the more icon and go to the pharmacy widget to find the nearest pharmacy.
+- Click on the register button on the home page to sign up.
+- Click on the login button to sign in with the information you registered.
+- Fill in your own information from the Profile tab.
+- Click on the chat icon at the bottom to start chatting for Chatbot usage.
+- Click on the calendar icon at the bottom to select a date for Schedule usage.
+- Toggle the dark mode button from the settings to enable dark mode.
+- Click on the symptom widget on the home page to fill in the necessary information for Symptom Checker usage.
+- Click on the Barcode Scanner widget on the home page to enter the required barcode for Barcode Scanner usage.
+- Click on the more icon and go to the pharmacy widget to find the nearest pharmacy.
 
 
 ## CREATED BY
